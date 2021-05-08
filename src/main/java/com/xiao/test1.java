@@ -8,6 +8,5 @@ public class test1 {
         System.out.println("pull test");
         System.out.println("gitee test");
         System.out.println("gitee pull test");
-        System.out.println("新GitHub pull test");
     }
 }
